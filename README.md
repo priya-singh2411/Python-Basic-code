@@ -5,3 +5,4 @@
 - Find Fibonacci series : fibonacci_series.py
 - Sales by Match | HackerRank : Sales_by_Match.py
 - Counting Valeys | HackerRank : counting_valeys.py
+- Find factorial of a given number : find_factorial.py
