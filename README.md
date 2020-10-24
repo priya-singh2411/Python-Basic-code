@@ -7,3 +7,4 @@
 - Counting Valeys | HackerRank : counting_valeys.py
 - Find factorial of a given number : find_factorial.py
 - Find Highest score among all the players | Tech GIG : Highest_Score_Tech_GIG.py
+- Lists | HackerRank : lists-Hackerrank.py
